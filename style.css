@@ -11,6 +11,12 @@ h1 {
     padding-top: 40px;
     color: white;
 }
+h2 {
+     text-align: center;
+    font-size: 40px;
+    padding-top: 250px;
+    color: white;
+}
 .top-wrapper {
     padding: 50px 90px 70px 90px;
     background-color:  gainsboro;
